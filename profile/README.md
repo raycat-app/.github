@@ -15,6 +15,11 @@
 [![Версия](https://img.shields.io/github/v/release/raycat-app/raycat?include_prereleases&style=flat-square&label=версия&color=2d333b)](https://github.com/raycat-app/raycat/releases)
 [![Лицензия](https://img.shields.io/badge/лицензия-MIT-2d333b?style=flat-square)](https://github.com/raycat-app/raycat/blob/main/LICENSE)
 
+
+<br>
+
+<img src="tui.png" alt="raycat tui" width="820">
+
 </div>
 
 | Что идёт через VPN | Как это работает |
