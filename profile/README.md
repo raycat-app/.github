@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="tui.png" alt="raycat tui" width="820">
+<img src="tui.png" alt="raycat tui" width="100%">
 
 </div>
 
